@@ -51,3 +51,5 @@ Ativar o servidor para que o frontend possa consumir as API's ou utilizar um pro
 ```
 yarn dev
 ```
+
+Tenha certeza de que o servidor está rodando na porta 3333 do seu localhost e o banco de dados conectado para que tudo funcione!
